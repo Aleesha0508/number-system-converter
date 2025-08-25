@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Java build files
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+
